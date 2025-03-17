@@ -129,14 +129,13 @@ img {
  ************************************************/
  .container{
     width: 100%;
-    max-width: 1140px;
+    max-width: 1160px;
  }
  @media screen and (max-width: 480px) {
     h2{
         margin-bottom: 0;
     }
     .row {
-        flex-wrap: wrap;
         flex-direction: column;
         align-content: center;
     }
