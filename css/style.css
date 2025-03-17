@@ -162,4 +162,14 @@ img {
     .col-left img{
         padding-bottom: 30px;
     }
+    .why-us{
+        background-color: black;
+        margin-bottom: 0;
+    }
+    .steps{
+        margin-bottom: 0;
+    }
+    .why-us h2{
+        padding: 30px;
+    }
 }
