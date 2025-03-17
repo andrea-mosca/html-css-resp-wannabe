@@ -131,3 +131,20 @@ img {
     width: 100%;
     max-width: 1140px;
  }
+ @media screen and (max-width: 480px) {
+    .row {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+    }
+    .lessons .col {
+        width: 100%;
+    }
+    .steps .col {
+        width: 100%;
+    }
+    .row .card{
+        padding-top: 50px;
+    }
+   
+}
